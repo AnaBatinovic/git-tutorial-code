@@ -9,7 +9,9 @@ Fork this repository, and then clone it by running the following command:
 * Building:
 
       cd cpp
-      mkdir build
+	  dobro
+      dobro
+	  mkdir build
       cd build
       cmake ../
       make
