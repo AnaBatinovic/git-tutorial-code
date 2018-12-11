@@ -28,3 +28,4 @@ Fork this repository, and then clone it by running the following command:
 ### Maintainers
 
 Mirko
+Developed without any help from that guy Slavko!
